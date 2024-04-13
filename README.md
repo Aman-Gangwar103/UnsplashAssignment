@@ -40,7 +40,7 @@ Follow these steps to run the application:
    Android Studio will build the application and launch it on the emulator.
 
 7. Explore the Application
-   Once the application is running, you can explore its features, search for images, and download them to your device.
+   Once the application is running, you can explore its features.
 
 
 
