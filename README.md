@@ -1,10 +1,10 @@
 Unsplash Application
 
-Welcome to the Unsplash Application! This application allows you to browse and download high-quality images from Unsplash.
+Welcome to the Unsplash Application! This application allows you to browse high-quality images from Unsplash.
 
 Getting Started
 
-Follow these steps to run the application on your local machine:
+Follow these steps to run the application:
 
 1. Download the Zip File:
    Download the zip file containing the project from the repository.
@@ -12,7 +12,7 @@ Follow these steps to run the application on your local machine:
 2. Extract the Folder:
    Extract the downloaded zip file to a location of your choice on your computer.
 
-3. Open the Project in Android Studio
+3. Open the Project in Android Studio:
    Launch Android Studio.
    Click on File -> Open and navigate to the location where you extracted the folder.
    Select the folder and click Open.
@@ -43,4 +43,8 @@ Follow these steps to run the application on your local machine:
    Once the application is running, you can explore its features, search for images, and download them to your device.
 
 
-   
+
+
+
+
+
